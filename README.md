@@ -2,9 +2,9 @@
 
 ### Welcome to our repository
 
-Members:
-Amador, Kathleen
-Cabulagan, Karl
-Ricafrente, John Harold
+Members: </b>
+Amador, Kathleen </b>
+Cabulagan, Karl </b>
+Ricafrente, John Harold </b>
 
 ## PA1 - Exploratory Data Analysis
