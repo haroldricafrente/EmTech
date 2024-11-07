@@ -2,9 +2,13 @@
 
 ### Welcome to our repository
 
-Members: <br/>
-Amador, Kathleen <br/>
-Cabulagan, Karl <br/>
-Ricafrente, John Harold <br/>
+Members
+<ul>
+  <li>Amador, Kathleen </li>
+  <li>Cabulagan, Karl </li>
+  <li>Ricafrente, John Harold </li>
+</ul>
 
 ## PA1 - Exploratory Data Analysis
+
+## PA2 - Linear Regression
