@@ -11,4 +11,4 @@ Members
 
 ## PA1 - Exploratory Data Analysis
 
-## PA2 - Linear Regression
+## PA2 - Multiple Linear Regression
